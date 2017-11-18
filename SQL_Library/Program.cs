@@ -10,6 +10,7 @@ namespace SQL_Library
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
